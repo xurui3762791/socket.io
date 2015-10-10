@@ -6,6 +6,7 @@
  2. 使用npm命令安装express和socket.io  
  ```
     npm install --save express
+    
     npm install --save socket.io
  ```
  3. 运行index.js 
