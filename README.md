@@ -4,8 +4,9 @@
 
  1. nodejs 安装 [nodejs 官网](https://nodejs.org)
  2. 使用npm命令安装依赖express和socket.io  
+ 
  ```
-    npm install 
+    npm install
  ```
  3. 运行index.js 
 
